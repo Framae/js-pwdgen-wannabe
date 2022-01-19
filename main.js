@@ -13,8 +13,9 @@
 
 // richiesta nome
 
-
-
+let name prompt("Inserire nome") 
+let firstName = Nome 
+document.getElementById("firstName").innerHTML = firstName
 
 // richiesta cognome
 

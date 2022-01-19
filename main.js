@@ -11,11 +11,24 @@
 //camel case
 // let annoDiNascita;
 
+
+// let primaStringa = "Ciao";
+// let secondaStringa = "Mondo!";
+
+// let risultato = 'Dentro questo DIV ho scritto: ' + primaStringa + ' ' + secondaStringa;
+
+// let concatenazione = `Dentro questo DIV ho scritto: ${primaStringa} ${secondaStringa}` ;
+
+
+// console.log(risultato);
+// console.log(concatenazione);
+
+
 // richiesta nome
 
-let name prompt("Inserire nome") 
-let firstName = Nome 
-document.getElementById("firstName").innerHTML = firstName
+let name = prompt("Inserire nome") 
+let firstName = "ciao" 
+document.getElementById("firstName").innerHTML = firstName;
 
 // richiesta cognome
 

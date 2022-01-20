@@ -17,5 +17,5 @@ document.getElementById("color").innerHTML = color
 
 // password
 
-let password = name + lastName + color + "21" 
+let password = "La tua password è: " + name + lastName + color + "21" 
 document.getElementById("password").innerHTML = password
